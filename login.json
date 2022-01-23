@@ -3,6 +3,6 @@
   "version": "0.0.1",
   "description": "A simple JavaScript login page with localStorage",
   "dependencies": null,
-  "main": "src/",
+  "main": "",
   "repository": " https://ivan-hill.github.io/login/"
 }
