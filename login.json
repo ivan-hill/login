@@ -4,5 +4,5 @@
   "description": "A simple JavaScript login page with localStorage",
   "dependencies": null,
   "main": "src/",
-  "repository": ""
+  "repository": " https://ivan-hill.github.io/login/"
 }
